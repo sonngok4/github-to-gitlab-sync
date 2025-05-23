@@ -1,7 +1,5 @@
 #!/bin/bash
 
-source .env
-
 WORKDIR="/tmp/repo-sync"
 
 rm -rf $WORKDIR
